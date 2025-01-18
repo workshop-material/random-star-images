@@ -1,2 +1,5 @@
-# random-star-images
-Collection of random star images which can be used in teaching image analysis.
+# Collection of generated random star images
+
+I use these when teaching image analysis and parallel computing.
+
+Repository: https://github.com/workshop-material/random-star-images
